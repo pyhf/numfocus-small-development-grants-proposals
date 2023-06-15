@@ -110,7 +110,9 @@ Travel support award amounts would be determined after registration for the work
 
 11. Timeline of Deliverables: Please include specific timelines showing when you will achieve the proposed work.
 
-TODO!
+The main deliverable, the workshop itself, will take place in December 2023.
+All video recordings of presentations at the workshop will be publicly posted and professionally captioned by the end of January 2024.
+The summary report of the work deliverables and workshop outcomes will be submitted to NumFOCUS promptly within the alloted time.
 
 12. Has someone been identified to carry out the work in the proposal?
 
