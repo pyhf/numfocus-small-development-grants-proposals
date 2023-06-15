@@ -92,8 +92,7 @@ Yes.
 13. Please list the name(s) of the person(s) who will be carrying out the work and a short statement (approximately 1 sentence) of why they are qualified.
 
 Matthew Feickert, Lukas Heinrich, Giordon Stark.
-pyhf core development team.
-TODO!
+As the members of the pyhf core development team, and senior postdocs and faculty in experimental particle physics, we are directly invested in the growth and success of pyhf as a project in the NumFOCUS community and have past professional experience of running multiple successful physics workshops.
 
 14. How will someone be identified to carry out the work?
 
