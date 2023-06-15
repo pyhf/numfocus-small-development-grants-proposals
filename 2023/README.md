@@ -43,19 +43,16 @@ Additionally, the workshop will be used to onboard new contributors and to have 
 
 ## Planned work and costs
 
-As the users of pyhf are globally distributed the decision to hold a workshop at CERN was made as it is viewed as a common international meeting place and CERN users (all the core developers are CERN members or users) have the ability to book conference rooms at CERN without any room costs.
-
-However, funding to travel to CERN globally is not always a given and is generally disproportionately represented from North American and European institutions.
-We would like to facilitate travel support, with preference given to Ph.D. candidates and researchers at non-European or North American universities, to help create a more diverse representation.
-
-Additionally, particle physics workshops have a format of a small conference in which the first days contain introductory talks on the state of the field and demonstrations.
+Particle physics workshops have a format of a small conference in which the first days contain introductory talks on the state of the field and demonstrations.
 In addition to providing video recordings for these talks it is important that the recordings are professional captioned to make them accessible to the deaf members of our community, as well as more accessible in general.
 
 The workshop will be split into two parts: A section focusing on the pyhf user community and a following section focused on growing the developer community.
 
 The rest of the approximately week workshop will be devoted to planning discussions to better understand the needs of the user community, the
 
-Here discuss more about why funding is needed.
+As the users of pyhf are globally distributed the decision to hold a workshop at CERN was made as it is a common international meeting place and CERN users (including the pyhf development team) are allowed to use CERN facilities and resources for meetings without any cost.
+However, travel costs to CERN can be substantial, leading to CERN meeting attendance being disproportionately represented from larger European institutions.
+To have a successful workshop with diverse user community representation we plan to use the majority of this award to provide travel support, with preference given to Ph.D. candidates and early career researchers at institutions outside of Europe.
 
 ## Risks
 
