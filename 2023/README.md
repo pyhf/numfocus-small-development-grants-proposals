@@ -28,17 +28,17 @@ Given the rise in adoption of pyhf usage across experimental and theoretical par
 
 ## Motivation
 
-(riffing here to get raw text down to revise later)
-In 2018 the ATLAS collaboration at CERN used pyhf and its JSON model specification to publish the first full probability model of a Large Hadron Collider (LHC) experiment.
-Since then, the ATLAS collaboration has used pyhf in over 24 publications.
-There has been steady adoption of pyhf across the broader particle physics community.
-The IRIS-HEP software research institute has made it a core technology for data analysis.
-The Belle II collaboration located in Japan has published multiple analyses using it.
-Members of the particle physics theory community have adopted it for analysis.
-The MicroBooNE experiment has begun to adopt it as well.
+The pyhf user community has grown extensively since the project inception in 2018, covering many different subfields of particle physics experiment, theory, and computation.
+In 2019 the ATLAS collaboration at CERN (focused on high energy physics) used pyhf and its JSON model specification to publish the first full probability model of a Large Hadron Collider (LHC) analysis, and has since gone on to use pyhf in over 24 publications.
+With this success, and pyhf's continued development, there has been wide adoption of pyhf in the broader particle physics community.
+The Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP) has adopted pyhf as a component of its plan for the next generation of particle physics analysis software.
+Most recently, the Belle II experimental collaboration in Japan (focused on lower energy precision physics) has published multiple analyses using pyhf, and the MicroBooNE experimental collaboration (focused on neutrino physics) is also beginning to use pyhf.
+The particle physics phenomenology theory community has also be quick adopters of pyhf, using the library as an inference engine to build their workflows around.
+These communities represent a broad collection of subfields of particle physics, with different needs and goals, with hundreds of pyhf users each.
 
-Through interacting with the users and contributors of the broader particle physics community it has become clear to the pyhf core development team that the use cases of the broader community are varied and there is an unused potential of strong software developers in the particle physics community.
-To better facilitate inter-experimental discussions and to understand what will benefit the pyhf user community the most the pyhf development team will hold the first pyhf user and developer community workshop at CERN in December 2023 (https://indico.cern.ch/event/1294577/).
+While the community of pyhf users has been steadily growing, the number of regular pyhf contributors has not grown substantially beyond the three core developers.
+Through interacting with the users and contributors in the broader particle physics community it has become clear to the pyhf core development team that it is important for the project to better understand the varied needs of the users and seek additional project developers.
+To better facilitate inter-experimental discussions and to understand what will benefit the pyhf user community the most the pyhf development team will hold the inaugural pyhf user and developer community workshop at CERN in December 2023 (https://indico.cern.ch/event/1294577/).
 Additionally, the workshop will be used to onboard new contributors and to have the explicit goal of growing the pyhf development team to better support new feature development.
 
 ## Planned work and costs
