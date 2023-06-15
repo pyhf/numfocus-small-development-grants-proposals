@@ -71,6 +71,21 @@ No more than 400 words (2,500 characters max)
 
 TODO!
 
+## Impact to the project
+
+It is important for pyhf as a project to understand the needs of the user community and to expand the developer community to reflect the needs.
+
+## Impact to the scientific ecosystem
+
+* Improvement in user community will improve scientific experience in particle physics.
+* Forster developers and solve solutions across subfields.
+
+## Impact to the community
+
+* More particle physics interaction with the scientific computing community.
+* Advertisement of tools.
+* Advertisement of NumFOCUS to broader particle physics world.
+
 9. Amount Requested (Numbers only in USD)
 
 10000
