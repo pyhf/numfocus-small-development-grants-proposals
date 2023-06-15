@@ -26,7 +26,16 @@ Given the rise in adoption of pyhf usage across experimental and theoretical par
 
 7. Description of Proposal. No more than 750 words (4,500 characters max).
 
-TODO!
+(riffing here to get raw text down to revise later)
+In 2018 the ATLAS collaboration at CERN used pyhf and its JSON model specification to publish the first full probability model of a Large Hadron Collider (LHC) experiment.
+Since then, the ATLAS collaboration has used pyhf in over 24 publications.
+There has been steady adoption of pyhf across the broader particle physics community.
+The IRIS-HEP software research institute has made it a core technology for data analysis.
+The Belle II collaboration located in Japan has published multiple analyses using it.
+Members of the particle physics theory community have adopted it for analysis.
+The MicroBooNE experiment has begun to adopt it as well.
+
+Through interacting with the users and contributors of the broader particle physics community it has become clear to the pyhf core development team that the use cases of the broader community are varied and there is an unused potential of strong software developers in the particle physics community.
 
 8. Please explain the benefit of this proposal including:
 - Impact to the project
@@ -44,7 +53,8 @@ TODO!
 10. Brief Budget Justification: (Please include hours and/or pay rates) How will the money be spent?
 
 TODO!
-Captioning
+* Travel costs (flights, trains, housing)
+* Captioning all recorded presentations
 
 11. Timeline of Deliverables: Please include specific timelines showing when you will achieve the proposed work.
 
