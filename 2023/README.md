@@ -31,7 +31,7 @@ DEBUG: Currently at 669 words.
 ## Motivation
 
 The pyhf user community has grown extensively since the project inception in 2018, covering many different subfields of particle physics experiment, theory, and computation.
-In 2019 the ATLAS collaboration at CERN (focused on high energy physics) used pyhf and its JSON model specification to publish the first full probability model of a Large Hadron Collider (LHC) analysis, and has since gone on to use pyhf in over 24 publications.
+In 2019 the ATLAS collaboration at CERN in Switzerland (focused on high energy physics) used pyhf and its JSON model specification to publish the first full probability model of a Large Hadron Collider (LHC) analysis, and has since gone on to use pyhf in over 24 publications.
 With this success, and pyhf's continued development, there has been wide adoption of pyhf in the broader particle physics community.
 The Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP) has adopted pyhf as a component of its plan for the next generation of particle physics analysis software.
 Most recently, the Belle II experimental collaboration in Japan (focused on lower energy precision physics) has published multiple analyses using pyhf, and the MicroBooNE experimental collaboration (focused on neutrino physics) is also beginning to use pyhf.
