@@ -26,6 +26,8 @@ Given the rise in adoption of pyhf usage across experimental and theoretical par
 
 7. Description of Proposal. No more than 750 words (4,500 characters max).
 
+DEBUG: Currently at 669 words.
+
 ## Motivation
 
 The pyhf user community has grown extensively since the project inception in 2018, covering many different subfields of particle physics experiment, theory, and computation.
