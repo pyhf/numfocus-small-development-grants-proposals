@@ -22,7 +22,7 @@ pyhf Developer Community Workshop 2023
 
 6. Two Sentence Summary of Proposal
 
-Given the rise in adoption of pyhf usage across experimental and theoretical particle physics in multiple subfields (collider physics at the Large Hadron Collider, flavor physics, neutrino physics) the pyhf development team would like to hold the first pyhf developer community workshop at CERN in December 2023. This workshop would support the growth and empowerment of the particle physics developer community that contributes to pyhf development and would benefit from having costs offset by this award.
+Given the rise in adoption of pyhf usage across experimental and theoretical particle physics in multiple subfields (collider physics at the Large Hadron Collider, flavor physics, neutrino physics) the pyhf development team is holding the first pyhf user and developer community workshop at CERN in December 2023 (https://indico.cern.ch/event/1294577/). This workshop would support the growth and empowerment of the particle physics developer community that contributes to pyhf development and would benefit from having costs offset by this award.
 
 7. Description of Proposal. No more than 750 words (4,500 characters max).
 
