@@ -26,6 +26,8 @@ Given the rise in adoption of pyhf usage across experimental and theoretical par
 
 7. Description of Proposal. No more than 750 words (4,500 characters max).
 
+## Motivation
+
 (riffing here to get raw text down to revise later)
 In 2018 the ATLAS collaboration at CERN used pyhf and its JSON model specification to publish the first full probability model of a Large Hadron Collider (LHC) experiment.
 Since then, the ATLAS collaboration has used pyhf in over 24 publications.
@@ -39,12 +41,27 @@ Through interacting with the users and contributors of the broader particle phys
 To better facilitate inter-experimental discussions and to understand what will benefit the pyhf user community the most the pyhf development team will hold the first pyhf user and developer community workshop at CERN in December 2023 (https://indico.cern.ch/event/1294577/).
 Additionally, the workshop will be used to onboard new contributors and to have the explicit goal of growing the pyhf development team to better support new feature development.
 
+## Planned work and costs
+
 As the users of pyhf are globally distributed the decision to hold a workshop at CERN was made as it is viewed as a common international meeting place and CERN users (all the core developers are CERN members or users) have the ability to book conference rooms at CERN without any room costs.
 
 However, funding to travel to CERN globally is not always a given and is generally disproportionately represented from North American and European institutions.
 We would like to facilitate travel support, with preference given to Ph.D. candidates and researchers at non-European or North American universities, to help create a more diverse representation.
 
-Here discuss more about why funding is needed. Going to bed now.
+Additionally, particle physics workshops have a format of a small conference in which the first days contain introductory talks on the state of the field and demonstrations.
+In addition to providing video recordings for these talks it is important that the recordings are professional captioned to make them accessible to the deaf members of our community, as well as more accessible in general.
+
+The workshop will be split into two parts: A section focusing on the pyhf user community and a following section focused on growing the developer community.
+
+The rest of the approximately week workshop will be devoted to planning discussions to better understand the needs of the user community, the
+
+Here discuss more about why funding is needed.
+
+## Risks
+
+The risks for successful execution of the workshop are few, given the experience of the organizers in planning and executing similar workshops for many years and the communicated level of interest from the boarder particle physics community.
+The primary risk would be lack of attendance and contributions from primary user groups in the community and groups that would be well suited to be new developers.
+These risks will be mitigated by communicating in advance with the user groups and by advertising the workshop across the various particle physics community mailing lists and meetings, and the monthly NumFOCUS newsletter, at the end of Summer 2023.
 
 8. Please explain the benefit of this proposal including:
 - Impact to the project
