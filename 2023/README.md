@@ -37,9 +37,14 @@ The MicroBooNE experiment has begun to adopt it as well.
 
 Through interacting with the users and contributors of the broader particle physics community it has become clear to the pyhf core development team that the use cases of the broader community are varied and there is an unused potential of strong software developers in the particle physics community.
 To better facilitate inter-experimental discussions and to understand what will benefit the pyhf user community the most the pyhf development team will hold the first pyhf user and developer community workshop at CERN in December 2023 (https://indico.cern.ch/event/1294577/).
-Additionally, the workshop will be used to onboard new conributors and to have the explicit goal of growing the pyhf development team to better support new feature development.
+Additionally, the workshop will be used to onboard new contributors and to have the explicit goal of growing the pyhf development team to better support new feature development.
 
-Here discuss more about why funding is needed.
+As the users of pyhf are globally distributed the decision to hold a workshop at CERN was made as it is viewed as a common international meeting place and CERN users (all the core developers are CERN members or users) have the ability to book conference rooms at CERN without any room costs.
+
+However, funding to travel to CERN globally is not always a given and is generally disproportionately represented from North American and European institutions.
+We would like to facilitate travel support, with preference given to Ph.D. candidates and researchers at non-European or North American universities, to help create a more diverse representation.
+
+Here discuss more about why funding is needed. Going to bed now.
 
 8. Please explain the benefit of this proposal including:
 - Impact to the project
