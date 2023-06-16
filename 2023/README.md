@@ -81,8 +81,10 @@ Similarly, bringing together as many particle physicists and research software e
 
 ## Impact to the scientific ecosystem
 
-* Improvement in user community will improve scientific experience in particle physics.
-* Forster developers and solve solutions across subfields.
+In recent years particle physics as a field has shifted from using its own specialized open source software towards using more open source software from the broader scientific community.
+This trend has been a net positive with a particular boon coming from developing common tools, built on top of broader scientific open source, across particle physics subfields and experiments &mdash; like pyhf.
+The workshop benefits to the user community will have direct effects on the scientific work done by the users across particle physics.
+Fostering the pyhf developer community across subfields also helps to bring software development improvements and best practices from the Scientific Python and Scikit-HEP organizations to more research groups.
 
 ## Impact to the community
 
