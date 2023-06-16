@@ -133,7 +133,7 @@ As the members of the pyhf core development team, and senior postdocs and facult
 
 14. How will someone be identified to carry out the work?
 
-We are selecting ourselves at the development team (who are also senior postdocs in physics and physics faculty).
+We are selecting ourselves as the development team (who are senior postdocs and university faculty in physics).
 
 15. Please list the name and email address of a project leader(s) who has approved this proposal.
 
