@@ -100,19 +100,19 @@ The workshop will offer additional opportunities for the pyhf development team t
 
 10. Brief Budget Justification: (Please include hours and/or pay rates) How will the money be spent?
 
-To avoid having to pay University of Wisconsin-Madison Facilities & Administrative Costs ("overhead") rates of 26% of the Modified Total Direct Cost of the award for off campus programs we would request that NumFOCUS directly pay for expenses associated with the award to maximize utility.
+To avoid paying University of Wisconsin-Madison (Matthew Feickert's employer) Facilities & Administrative Costs ("overhead") on the award, if possible, we would request that NumFOCUS directly pay for expenses associated with the award to maximize utility.
 Given this assumption, the requested award amount would be used in the following manner:
 
-* A projected 900 USD would be used for professional human captioning of all recorded presentations as the workshop.
+* A projected 900 USD would be used for professional human captioning of all recorded presentations at the workshop.
 An upper bound estimate of the amount of recorded content would be 10 hours.
-Rev.com (our preferred transcription service that we've used for years) charges $1.50 per minute for human captioning of English.
+Rev.com (our preferred transcription service that we've used for years) charges 1.50 USD per minute for human captioning of English.
 Rev.com charges no sales tax, so the estimate for captioning is based only on transcription time.
 While machine learning based transcription exists for cheaper rates, these services still perform with a word error rate of more than 15% for typical human speech, which is an error
 every 2.4 seconds (https://arxiv.org/abs/2203.08748).
 This error rate provides unacceptable access to language for the deaf members of our community.
 * 200 USD would be reserved for miscellaneous costs that would be incurred for workshop administration.
-Examples of possible expenses include name badges, microphone batteries, ground transportation in Geneva.
-* The remaining award, 8900 USD, would be used as travel support awards to workshop participants.
+Examples of possible expenses include name badges, batteries, and ground transportation in Geneva.
+* The remaining requested award, 8900 USD, would be used as travel support awards to workshop participants.
 This would include international flights and possibly international European trains.
 Travel support award amounts would be determined after registration for the workshop has closed to support the maximum number of attendees possible.
 
