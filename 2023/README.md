@@ -31,13 +31,12 @@ DEBUG: Currently at 669 words.
 
 ## Proposed project
 
-The pyhf user community has grown extensively since the project inception in 2018, covering many different subfields of particle physics experiment, theory, and computation.
-In 2019 the ATLAS collaboration at CERN in Switzerland (focused on high energy physics) used pyhf and its JSON model specification to publish the first full probability model of a Large Hadron Collider (LHC) analysis, and has since gone on to use pyhf in over 24 publications.
-With this success, and pyhf's continued development, there has been wide adoption of pyhf in the broader particle physics community.
-The Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP) has adopted pyhf as a component of its plan for the next generation of particle physics analysis software.
-Most recently, the Belle II experimental collaboration in Japan (focused on lower energy precision physics) has published multiple analyses using pyhf, and the MicroBooNE experimental collaboration (focused on neutrino physics) is also beginning to use pyhf.
-The particle physics phenomenology theory community has also be quick adopters of pyhf, using the library as an inference engine to build their workflows around.
-These communities represent a broad collection of subfields of particle physics, with different needs and goals, with hundreds of pyhf users each.
+The pyhf user community has grown extensively since the project's founding in 2018, covering many different subfields of particle physics experiment, theory, and computation.
+The Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP) has adopted pyhf as a component of its plan for the next generation of particle physics analysis software, helping to motivate continued feature development to support fully differentiable analysis workflows.
+Large (hundreds to thousands of members) experimental collaborations, like the ATLAS collaboration at CERN in Switzerland and the Belle II collaboration at KEK in Japan, have adopted pyhf for performing statistical inference for their analyses and publishing full statistical models.
+This has significantly increased the global user base, who possess a spectrum of technical skill levels and development experience, and motivated a focus on user support.
+The particle physics phenomenology and theory communities have also be quick adopters of pyhf, using the library as an inference engine to build their reinterpretation frameworks on, motivating the pyhf development team to strongly prioritize the developer experience when working with pyhf.
+These communities represent a diverse collection of subfields of particle physics, with different needs and goals, experience with scientific programming, and expectations and understanding of open source software.
 
 While the community of pyhf users has been steadily growing, the number of regular pyhf contributors has not grown substantially beyond the three core developers.
 Through interacting with the users and contributors in the broader particle physics community it has become clear to the pyhf core development team that it is important for the project to better understand the varied needs of the users and seek additional project developers.
