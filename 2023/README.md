@@ -29,7 +29,7 @@ This workshop will support the growth and empowerment of the particle physics de
 
 DEBUG: Currently at 669 words.
 
-## Motivation
+## Proposed project
 
 The pyhf user community has grown extensively since the project inception in 2018, covering many different subfields of particle physics experiment, theory, and computation.
 In 2019 the ATLAS collaboration at CERN in Switzerland (focused on high energy physics) used pyhf and its JSON model specification to publish the first full probability model of a Large Hadron Collider (LHC) analysis, and has since gone on to use pyhf in over 24 publications.
