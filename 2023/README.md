@@ -90,9 +90,9 @@ Fostering the pyhf developer community across subfields also helps bring softwar
 
 ## Impact to the community
 
-Allowing for more researchers to attend the workshop allows for greater exposure of NumFOCUS projects, goals, and the organization to the broader particle physics community.
-pyhf's exposure to NumFOCUS through participation in the SciPy conference since 2019 has directly motivated increased interaction and partnerships between the particle physics community and the SciPy Conference community, the Scientific Python organization, and NumFOCUS (two Scikit-HEP projects are now NumFOCUS Affiliated projects).
-The workshop will offer additional opportunities for the pyhf development team to emphasize the impact and benefits of the NumFOCUS ecosystem and community to the participants which we hope will lead towards additional positive involvement of particle physicists with NumFOCUS's goals.
+Enabling more researchers to attend the workshop generates greater exposure of NumFOCUS projects, goals, and organization to the broader particle physics community.
+pyhf's exposure to NumFOCUS through participation in the SciPy conference since 2019 has directly motivated increased interaction and partnerships between the particle physics community and the SciPy Conference, the Scientific Python organization, and NumFOCUS communities (resulting in Scikit-HEP projects pyhf and Awkward Array becoming NumFOCUS Affiliated Projects).
+The workshop will offer additional opportunities for the pyhf development team to emphasize the impact and benefits of the NumFOCUS ecosystem and community to participants, and encourage additional positive involvement of particle physicists with NumFOCUS's goals.
 
 9. Amount Requested (Numbers only in USD)
 
