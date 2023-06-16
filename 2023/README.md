@@ -40,8 +40,11 @@ These communities represent a diverse collection of subfields of particle physic
 
 While the community of pyhf users has been steadily growing, the number of regular pyhf contributors has not grown substantially beyond the three core developers.
 Through interacting with the users and contributors in the broader particle physics community it has become clear to the pyhf core development team that it is important for the project to better understand the varied needs of the users and seek additional project developers.
-To better facilitate inter-experimental discussions and to understand what will benefit the pyhf user community the most the pyhf development team will hold the inaugural pyhf user and developer community workshop at CERN in December 2023 (https://indico.cern.ch/event/1294577/).
-Additionally, the workshop will be used to onboard new contributors and to have the explicit goal of growing the pyhf development team to better support new feature development.
+To better facilitate inter-experimental and inter-subfield discussions and to understand what will benefit the pyhf user community the most the pyhf development team will hold the inaugural pyhf user and developer community workshop at CERN in December 2023 (https://indico.cern.ch/event/1294577/).
+Additionally, the workshop will be used to onboard new contributors and to have the explicit goal of growing the pyhf development team to better support new feature development and diverse community needs.
+To make the workshop a successful investment in time and resources broad user and developer involvement will be required.
+The workshop will be an in-person and online hybrid, but given the large dispersion of timezones covered by the communities in-person participation will be preferred.
+The pyhf development team would use a NumFOCUS Small Development Grants award to maximize participation and accessibility of the content.
 
 ## Planned work and costs
 
