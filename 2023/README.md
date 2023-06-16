@@ -71,8 +71,6 @@ These risks will be mitigated by communicating in advance with the user groups a
 
 No more than 400 words (2,500 characters max)
 
-DEBUG: REVISE
-
 ## Impact to the project
 
 For pyhf the workshop offers an opportunity for synchronous interaction with the largest user groups and people most probable to continue making contributions and become future developers.
