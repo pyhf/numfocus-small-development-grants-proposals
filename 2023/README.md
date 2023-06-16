@@ -60,9 +60,9 @@ To have a successful workshop with diverse community representation we plan to u
 
 ## Risks
 
-The risks for successful execution of the workshop are few, given the experience of the organizers in planning and executing similar workshops for many years and the communicated level of interest from the boarder particle physics community.
-The primary risk would be lack of attendance and contributions from primary user groups in the community and groups that would be well suited to be new developers.
-These risks will be mitigated by communicating in advance with the user groups and by advertising the workshop across the various particle physics community mailing lists and meetings, and the monthly NumFOCUS newsletter, at the end of Summer 2023.
+The risks for successful execution of the workshop are few, given the organizers' experience in planning and executing similar workshops for many years and the communicated level of interest from the boarder particle physics community.
+The primary risk would be lack of attendance and contributions from large user communities and lack of participation from user groups that could be empowered to become developers.
+These risks will be mitigated by communicating in advance with the user groups and by advertising the workshop across the various particle physics community mailing lists and meetings, as well as the monthly NumFOCUS newsletter, at the end of Summer 2023.
 
 8. Please explain the benefit of this proposal including:
 - Impact to the project
