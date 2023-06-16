@@ -73,7 +73,11 @@ TODO!
 
 ## Impact to the project
 
-It is important for pyhf as a project to understand the needs of the user community and to expand the developer community to reflect the needs.
+For pyhf as a project the workshop offers an opportunity for synchronous interaction with the largest user groups and the pool of people more probable to continue making contributions and become future developers.
+This is crucial for the continued development and growth of the project.
+Given the limited time of the existing core development team and the growing number of users, project development is becoming unbalanced towards favoring maintenance and user support over new development.
+Allowing for direct access to as many dominant users of pyhf as possible will allow for the developer team to reprioritize effort moving forward and establish a new development roadmap.
+Similarly, bringing together as many particle physicists and research software engineers interested in contributing to pyhf development allows for an opportunity to educate new contributors on development goals, expand the developer team, and for the existing developer team to learn ways to improve the development workflow and contributor experience.
 
 ## Impact to the scientific ecosystem
 
