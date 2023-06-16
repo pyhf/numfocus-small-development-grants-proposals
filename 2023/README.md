@@ -18,7 +18,7 @@ Other: pyhf
 
 5. Proposal Title
 
-pyhf Developer Community Workshop 2023
+pyhf Users and Developers Workshop 2023
 
 6. Two Sentence Summary of Proposal
 
