@@ -70,16 +70,16 @@ No more than 400 words (2,500 characters max)
 
 ## Impact to the project
 
-For pyhf the workshop offers an opportunity for synchronous interaction with the largest user groups and people most probable to continue making contributions and become future developers.
-This is crucial for the continued development and growth of the project.
-Given the limited time of the existing core development team, who are all professional academic physicists, and the growing number of users, project development is becoming unbalanced towards favoring maintenance and user support over new development.
-Allowing for direct discussion with many dominant users of pyhf will greatly assist the developer team in reprioritizing efforts and establishing a new development roadmap.
-Similarly, bringing together as many particle physicists and research software engineers interested in contributing to pyhf development allows for an opportunity to educate new contributors on development goals and best practices, expand the developer team, and learn ways to improve the development workflow and contributor experience.
+The workshop offers an opportunity for synchronous interaction with the largest user groups and people most probable to continue making contributions and become future developers.
+This is crucial for the continued development and growth of the pyhf.
+Given the limited time of the existing core development team, and the growing number of users, project development is becoming unbalanced towards favoring maintenance and user support over new development.
+Direct discussion with dominant users of pyhf will greatly assist the developer team in reprioritizing efforts and establishing a new development roadmap.
+Similarly, bringing together as many particle physicists and research software engineers interested in contributing to pyhf allows for an opportunity to educate new contributors on development goals and best practices, expand the developer team, and learn ways to improve the contributor experience.
 
 ## Impact to the scientific ecosystem
 
-In recent years particle physics as a field has shifted from using its own specialized open source software towards using more shared open source software from the broader scientific community.
-This trend has been a net positive for the field with a particular boon coming from developing common tools, built on top of broader scientific open source, across particle physics subfields and experiments &mdash; like pyhf.
+In recent years particle physics has shifted from using its own specialized open source software towards using more shared projects from the broader scientific community.
+This trend has been a net positive with a particular boon coming from developing common tools across particle physics subfields and experiments &mdash; like pyhf.
 The workshop benefits to the pyhf user community will have direct impacts on the scientific work done across particle physics.
 Fostering the pyhf developer community across subfields also helps bring software development improvements and best practices from NumFOCUS communities, like Scientific Python organization, to more research groups.
 
