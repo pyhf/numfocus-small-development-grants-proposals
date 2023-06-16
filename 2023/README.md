@@ -48,16 +48,15 @@ The pyhf development team would use a NumFOCUS Small Development Grants award to
 
 ## Planned work and costs
 
-Particle physics workshops have a format of a small conference in which the first days contain introductory talks on the state of the field and demonstrations.
-In addition to providing video recordings for these talks it is important that the recordings are professional captioned to make them accessible to the deaf members of our community, as well as more accessible in general.
+In the broader particle physics community "workshops" have a format of a small conference with introductory plenaries and tutorials, topical parallel sessions, strategic planning sessions, and, when software focused, end with development sprints.
+The pyhf workshop will follow a similar format, though the first half of the workshop will be focused on better understanding and supporting the user community, and the second half will be focused on enabling and growing the developer community.
+The workshop will conclude with development sprints to efficiently onboard new developers and make progress towards the goals and problems clarified in the workshop.
+In addition to providing public video recordings for all presentations it is important that the recordings are professional captioned to make them accessible to the deaf members of our community, as well as more accessible in general.
+While not the largest anticipated cost on an awarded grant, providing accessible language to all participants would be a priority.
 
-The workshop will be split into two parts: A section focusing on the pyhf user community and a following section focused on growing the developer community.
-
-The rest of the approximately week workshop will be devoted to planning discussions to better understand the needs of the user community, the
-
-As the users of pyhf are globally distributed the decision to hold a workshop at CERN was made as it is a common international meeting place and CERN users (including the pyhf development team) are allowed to use CERN facilities and resources for meetings without any cost.
+As the users of pyhf are globally distributed the decision to hold a workshop at CERN was made as it is a common international meeting place and CERN users (including the pyhf development team) are allowed to use CERN facilities, resources, and IT support for meetings without cost.
 However, travel costs to CERN can be substantial, leading to CERN meeting attendance being disproportionately represented from larger European institutions.
-To have a successful workshop with diverse user community representation we plan to use the majority of this award to provide travel support, with preference given to Ph.D. candidates and early career researchers at institutions outside of Europe.
+To have a successful workshop with diverse community representation we plan to use the majority of an award grant to provide travel support, with preference given to Ph.D. candidates and early career researchers at institutions outside of Europe.
 
 ## Risks
 
