@@ -27,34 +27,34 @@ This workshop will support the growth and empowerment of the particle physics de
 
 7. Description of Proposal. No more than 750 words (4,500 characters max).
 
-DEBUG: Currently at 784 words.
+DEBUG: Currently at 746 words.
 
 ## Proposed project
 
 The pyhf user community has grown extensively since the project's founding in 2018, covering many different subfields of particle physics experiment, theory, and computation.
-The Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP) has adopted pyhf as a component of its plan for the next generation of particle physics analysis software, helping to motivate continued feature development to support fully differentiable analysis workflows.
+The Institute for Research and Innovation in Software for High Energy Physics (IRIS-HEP) has adopted pyhf as a component of its plan for the next generation of particle physics analysis software, helping to motivate continued feature development.
 Large (hundreds to thousands of members) experimental collaborations, like the ATLAS collaboration at CERN in Switzerland and the Belle II collaboration at KEK in Japan, have adopted pyhf for performing statistical inference for their analyses and publishing full statistical models.
-This has significantly increased the global user base, who possess a spectrum of technical skill levels and development experience, and motivated a focus on user support.
+This has significantly increased the global user base and motivated a focus on user support.
 The particle physics phenomenology and theory communities have also been quick adopters of pyhf, using the library as an inference engine to build their reinterpretation frameworks on, motivating the pyhf development team to strongly prioritize the developer experience when working with pyhf.
 These communities represent a diverse collection of subfields of particle physics, with different needs and goals, experience with scientific programming, and expectations and understanding of open source software.
 
 While the community of pyhf users has been steadily growing, the number of regular pyhf contributors has not grown substantially beyond the three core developers.
-Through interacting with the users and contributors in the broader particle physics community it has become clear to the pyhf core development team that it is important for the project to better understand the varied needs of the users and seek additional project developers.
-To better facilitate inter-experimental and inter-subfield discussions and to understand what will benefit the pyhf user community the most the pyhf development team will hold the inaugural pyhf user and developer community workshop at CERN in December 2023 (https://indico.cern.ch/event/1294577/).
+Through interacting with the users and contributors in the broader particle physics community it has become clear to the pyhf core development team the importance for the project to better understand the varied needs of users and seek additional project developers.
+To better facilitate field wide discussions and to understand what will benefit the pyhf user community the most the pyhf development team will hold the inaugural pyhf user and developer community workshop at CERN in December 2023 (https://indico.cern.ch/event/1294577/).
 Additionally, the workshop will be used to onboard new contributors and to have the explicit goal of growing the pyhf development team to better support new feature development and diverse community needs.
-To make the workshop a successful investment in time and resources broad user and developer involvement will be required.
-The workshop will be an in-person and online hybrid, but given the large dispersion of timezones covered by the communities in-person participation will be preferred.
-The pyhf development team would use a NumFOCUS Small Development Grants award to maximize participation and accessibility of the content.
+To make the workshop a successful investment of time and resources broad user and developer involvement will be required.
+The workshop will be an in-person and online hybrid, but given the many timezones covered by the communities in-person participation will be preferred.
+The pyhf development team would use a NumFOCUS Small Development Grants award to maximize workshop participation and accessibility.
 
 ## Planned work and costs
 
-In the broader particle physics community "workshops" have a format of a small conference with introductory plenaries and tutorials, topical parallel sessions, strategic planning sessions, and, when software focused, end with development sprints.
-The pyhf workshop will follow a similar format, though the first half of the workshop will be focused on better understanding and supporting the user community, and the second half will be focused on enabling and growing the developer community.
-The workshop will conclude with development sprints to efficiently onboard new developers and make progress towards the goals and problems clarified in the workshop.
-In addition to providing public video recordings for all presentations it is important that the recordings are professionally captioned to make them accessible to the deaf members of our community, as well as more accessible in general.
-While not the largest anticipated cost on an awarded grant, providing accessible language to all participants would be a priority.
+In the broader particle physics community "workshops" have a format of a small conference with introductory plenaries and tutorials, topical parallel sessions, strategic planning sessions, and development sprints when software focused.
+The pyhf workshop will follow a similar format, though the first half of the workshop will focus on better understanding and supporting the user community, and the second half will focus on enabling and growing the developer community.
+The workshop will conclude with development sprints to efficiently onboard new developers and make progress towards goals and problems clarified in the workshop.
+In addition to providing public video recordings for all presentations, the recordings will be professionally captioned to make them accessible to the deaf members of our community, as well as more accessible in general.
+While not the largest anticipated expense on an awarded grant, providing accessible language to all participants would be a priority.
 
-As the users of pyhf are globally distributed the decision to hold a workshop at CERN was made as it is a common international meeting place and CERN users (including the pyhf development team) are allowed to use CERN facilities, resources, and IT support for meetings without cost.
+As the users of pyhf are globally distributed the decision to hold a workshop at CERN was made as it is a common international meeting place and CERN users (including the pyhf development team) can use CERN facilities, resources, and IT support for meetings without cost.
 However, travel costs to CERN can be substantial, leading to CERN meeting attendance being disproportionately represented from larger European institutions.
 To have a successful workshop with diverse community representation we plan to use the majority of an award grant to provide travel support, with preference given to Ph.D. candidates and early career researchers at institutions outside of Europe.
 
@@ -62,7 +62,7 @@ To have a successful workshop with diverse community representation we plan to u
 
 The risks for successful execution of the workshop are few, given the organizers' experience in planning and executing similar workshops for many years and the communicated level of interest from the broader particle physics community.
 The primary risk would be lack of attendance and contributions from large user communities and lack of participation from user groups that could be empowered to become developers.
-These risks will be mitigated by communicating in advance with the user groups and by advertising the workshop across the various particle physics community mailing lists and meetings, as well as the monthly NumFOCUS newsletter, at the end of Summer 2023.
+These risks will be mitigated by communicating in advance with the particle physics community and by advertising the workshop across community mailing lists and meetings, as well as the monthly NumFOCUS newsletter, at the end of Summer 2023.
 
 8. Please explain the benefit of this proposal including:
 - Impact to the project
@@ -118,7 +118,7 @@ Travel support award amounts would be determined after registration for the work
 
 The main deliverable, the workshop itself, will take place in December 2023.
 All video recordings of presentations at the workshop will be publicly posted and professionally captioned by the end of January 2024.
-The summary report of the work deliverables and workshop outcomes will be submitted to NumFOCUS promptly within the alloted time.
+The summary report of the work deliverables and workshop outcomes will be submitted to NumFOCUS promptly within the allotted time.
 
 12. Has someone been identified to carry out the work in the proposal?
 
