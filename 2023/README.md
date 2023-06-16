@@ -27,8 +27,6 @@ This workshop will support the growth and empowerment of the particle physics de
 
 7. Description of Proposal. No more than 750 words (4,500 characters max).
 
-DEBUG: Currently at 746 words.
-
 ## Proposed project
 
 The pyhf user community has grown extensively since the project's founding in 2018, covering many different subfields of particle physics experiment, theory, and computation.
