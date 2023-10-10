@@ -17,3 +17,5 @@ Sincerely,
 Arliss
 
 (on behalf of the Small Development Grants Committee)
+
+[![pyhf-sdg-funded-2023](pyhf-sdg-funded-2023.png)](https://numfocus.org/programs/small-development-grants)
